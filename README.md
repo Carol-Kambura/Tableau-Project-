@@ -28,7 +28,9 @@ not-employed. This could be due to the fact that most people in employment have 
 
 You can view final version of my Prosper Loan Data Story by clicking on image below:
 
-https://public.tableau.com/app/profile/carolyne.kambura/viz/ProsperLoan_16767141792400/Overview?publish=yes
+[https://public.tableau.com/app/profile/carolyne.kambura/viz/ProsperLoan_16767141792400/Overview?publish=yes]
+
+
 
 ##References
 [https://www.kaggle.com/jschnessl/prosperloans]
