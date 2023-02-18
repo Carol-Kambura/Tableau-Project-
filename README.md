@@ -9,8 +9,8 @@ status and ratings
 ###Dataset
 The Prosper loan data set contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. The dataset and data-dictionary can be found on below links.
 
-Prosper Loan Dataset https://raw.githubusercontent.com/jubins/Tableau-Projects/master/ProsperLoanData/data/prosperLoanData.csv
-Prosper Loan Data - VariableDefinitions - https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/ProsperLoanData-VariableDefinitions.csv
+Prosper Loan Dataset [https://raw.githubusercontent.com/jubins/Tableau-Projects/master/ProsperLoanData/data/prosperLoanData.csv]
+Prosper Loan Data - VariableDefinitions [https://github.com/jubins/Tableau-Projects/blob/master/ProsperLoanData/data/ProsperLoanData-VariableDefinitions.csv]
 
 I worked to answer the following questions:
 
@@ -31,4 +31,4 @@ You can view final version of my Prosper Loan Data Story by clicking on image be
 https://public.tableau.com/app/profile/carolyne.kambura/viz/ProsperLoan_16767141792400/Overview?publish=yes
 
 ##References
-https://www.kaggle.com/jschnessl/prosperloans
+[https://www.kaggle.com/jschnessl/prosperloans]
